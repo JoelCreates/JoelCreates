@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=0064F7&center=true&random=false&width=800&height=100&lines=Hey+there!%F0%9F%91%8B;My+name+is+Joel!;Nice+to+meet+you!)](https://git.io/typing-svg)
-
+##
 Welcome to my page! I'm passionate about creating projects relevant to my day to day tasks. There's nothing better than manipulating software to create whatever you need to make your general life easier, including automation of tasks and even making really cool projects. Feel free to check out my current projects. You can open issues and make pull requests to whichever projects you find interesting here!
 
 If you are hiring, let's chat!
