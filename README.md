@@ -50,6 +50,12 @@ Here are some ideas to get you started:
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=Nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
-
+##
 ![JoelCreates's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoelCreates&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelCreates&layout=compact)
+
+##
+
+
+![linuxusers](https://github.com/JoelCreates/JoelCreates/assets/48869133/dc9788c9-f457-4cf2-903b-13966255c038)
+
