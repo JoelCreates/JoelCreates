@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
 ##
-![JoelCreates's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoelCreates&show_icons=true)
+![JoelCreates's GitHub stats](https://nirzak-streak-stats.vercel.app?user=CompEng0001&theme=material-palenight&hide_border=false&date_format=j%20M%5B%20Y%5D&mode=weekly)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelCreates&layout=compact)
 
 ##
