@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 
 ##
 ![JoelCreates's GitHub stats](https://nirzak-streak-stats.vercel.app?user=CompEng0001&theme=material-palenight&hide_border=false&date_format=j%20M%5B%20Y%5D&mode=weekly)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelCreates&layout=compact)
 
 ##
